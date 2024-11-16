@@ -1,2 +1,3 @@
 # Bullet-Hell-Game
-Source code for a bullet hell game I made
+This is the source code for the bullet hell game I made! Made entirely with Python and Pygame.
+Game can be found here at **[TODO: Put in link]**.
